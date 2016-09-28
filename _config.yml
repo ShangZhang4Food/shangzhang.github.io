@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Stuart Test"
   avatar           : "profile.png"
-  bio              : "Testing testing biography for the left-hand sidebar"
+  bio              : "Testing [testing](http://test.com) biography for <img src='images/500x300.png'>the left-hand sidebar"
   location         : "Berkeley, CA"
   employer         : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
